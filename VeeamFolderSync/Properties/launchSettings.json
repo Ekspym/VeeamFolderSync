@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamFolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Volum\\Desktop\\VeeamTest\" \"C:\\Users\\Volum\\Desktop\\ReplicaFolder\" 5 \"%USERPROFILE%\\Documents\\LogFile.txt\"\r\n"
+    }
+  }
+}
